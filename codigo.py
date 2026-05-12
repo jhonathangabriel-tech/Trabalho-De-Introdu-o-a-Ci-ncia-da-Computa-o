@@ -6,3 +6,4 @@ sm2 = sm/2
 ql = sm2*q
 
 print('O valor a pagar em sua residencia é ',ql)
+
